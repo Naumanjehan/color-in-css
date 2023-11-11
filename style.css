@@ -1,0 +1,51 @@
+/* color name */
+/* h1
+{
+color: red;
+} */
+
+/* hex code */
+/* h1
+{
+color: #906700;
+} */
+
+/* RGB COLOR */
+/* h1
+{
+    color: rgb(10, 155 , 255);
+} */
+/* 
+
+/* forground color */
+/* h1
+{
+    color: red;
+} */
+
+
+/* background color */
+/* h2
+{
+    background-color: wheat;
+} */
+
+/* opacity in css */
+#div1
+{
+    color: yellow;
+    background: green;
+    opacity: 0.5;
+
+}
+
+#img1
+{
+    border-style: double;
+}
+
+#img2
+{
+    opacity: 0.4;
+    border-style: groove;
+}
